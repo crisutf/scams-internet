@@ -31,5 +31,5 @@ Un bot o script malicioso toma el control de una cuenta de Discord compromised y
 
 # Evidencias
 ## Capturas de Pantalla
-<img src="https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image5.jpg" alt="Captura 5" width="100%">
+<img src="https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image5.png" alt="Captura 5" width="100%">
 Nota: La cuenta esa es mia la "UserData" pero si fue compromisa pero la recupere pero la mia mia no le paso nada.
