@@ -16,11 +16,11 @@ Un bot o script malicioso toma el control de una cuenta de Discord comprometida 
 
 | Muestra 1 | Muestra 2 |
 | :---: | :---: |
-| ![Captura 1](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image1.jpg) | ![Captura 2](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image2.jpg) |
-| ![Captura 3](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image3.jpg) | ![Captura 4](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image4.jpg) |
+| ![Captura 1](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/discord/type1/image1.jpg) | ![Captura 2](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/discord/type1/image2.jpg) |
+| ![Captura 3](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/discord/type1/image3.jpg) | ![Captura 4](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/discord/type1/image4.jpg) |
 
 ### Captura Adicional
 
-![Captura 5](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image5.png)
+![Captura 5](https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/discord/type1/image5.png)
 
 > **Nota:** La cuenta `UserData` mostrada en la captura es mía. La cuenta fue comprometida temporalmente por este ataque, pero posteriormente fue recuperada sin daños permanentes y aunque hubiera daños no me importaria porque es una cuenta segundaria que ni uso para nada importante.
