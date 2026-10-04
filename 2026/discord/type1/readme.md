@@ -34,5 +34,5 @@ Un bot o script malicioso toma el control de una cuenta de Discord compromised y
 <img src="https://raw.githubusercontent.com/crisutf/scams-internet/refs/heads/main/2026/discord/type1/image5.png" alt="Captura 5" width="100%">
 Nota: La cuenta esa es mia la "UserData" pero si fue compromisa pero la recupere pero la mia mia no le paso nada.
 
-# ¿Que se hace en la cuenta?
+# ¿Que hace el bot en la cuenta?
 Pues el bot una vez envia el spam, pone en lista de ignorar a todos los usuarios que interactuo para no llamar la atencion.
