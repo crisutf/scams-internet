@@ -24,4 +24,4 @@ Un bot o script malicioso toma el control de una cuenta de Instagram comprometid
 ![Imagen Promocional](https://raw.githubusercontent.com/crisutf/scams-internet/main/2026/instagram/type1/image1.jpg)
 
 ### Resultado del Ataque
-![Captura del Resultado](https://raw.githubusercontent.com/crisutf/scams-internet/main/2026/instagram/type1/image2.png)
+![Captura del Resultado](https://github.com/crisutf/scams-internet/blob/main/2026/instagram/type1/image2.png?raw=true)
